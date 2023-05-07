@@ -11,7 +11,7 @@
 <body>
 
     <form action="form-data.php" method="POST">
-            Enter your Url: <input type="text" name="url" placeholder="https://google.com"><br>
+            Enter your Url: <input type="text" name="url" placeholder="www.google.com"><br>
             <input type="submit" value="Check Charactar count" name ="submit"> 
            
 
